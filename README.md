@@ -2,6 +2,8 @@
 
 Interactive React visualization of the Levenshtein (Edit Distance) dynamic programming algorithm.
 
+**[Try it live](https://froredion.github.io/edit-distance-visualizer/)** | [LeetCode Problem](https://leetcode.com/problems/edit-distance)
+
 ## Features
 
 - Step-by-step DP table filling
